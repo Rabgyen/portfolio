@@ -7,7 +7,7 @@ It highlights profile details, skills, projects, current work-in-progress, and a
 
 Visit the live site here:
 
-https://rabgyen.github.io/portfolio/
+[View Protfolio](https://rabgyen.github.io/portfolio/)
 
 ## About This Portfolio
 
